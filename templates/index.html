@@ -1,13 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Resume Analyzer</title>
+    <title>Resume Parser</title>
 </head>
 <body>
-    <h1>Resume Analyzer</h1>
-    <form method="POST" enctype="multipart/form-data" action="{{ url_for('upload') }}">
-        <input type="file" name="resume" required >
+    <h1>Resume Parser</h1>
+    <p>Please upload your resume in PDF format:</p>
+    <form method="POST" action="/upload" enctype="multipart/form-data">
+        <input type="file" name="resume">
+        <br><br>
         <input type="submit" value="Submit">
     </form>
+    {% if error %}
+        <br><br>
+        <p style="color: red;">Error: {{ error }}</p>
+    {% endif %}
 </body>
 </html>

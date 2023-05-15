@@ -25,14 +25,14 @@ def upload():
         for page in pdf_file:
             text += page.get_text()
 
-        # Cleaning  up the text
+        # Cleaning up the text
         text = ' '.join(text.split())
 
-        # Using  Spacy to parse the text and extract relevant information
+        # Using Spacy to parse the text and extract relevant information
         doc = nlp(text)
         data = {}
 
-        # Extracting the  name of the individual 
+        # Extracting the name of the individual 
         name = ''
         for ent in doc.ents:
             if ent.label_ == 'PERSON':
@@ -48,7 +48,7 @@ def upload():
             age = match.group(0)
         data['age'] = age if age else None
 
-        # Extracting  contact information
+        # Extracting contact information
         contact = {}
         email_re = re.compile(r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b')
         phone_re = re.compile(r'\b\d{3}[-.\s]?\d{3}[-.\s]?\d{4}\b')
@@ -68,7 +68,7 @@ def upload():
                     contact['address'] = match.group(0)
         data['contact'] = contact if contact else None
 
-        # Extracting  skills if available 
+        # Extracting skills if available 
         programming_languages = []
         frontend_technologies = []
         backend_technologies = []
@@ -95,7 +95,7 @@ def upload():
         data['databases'] = databases if databases else None
         data['other_skills'] = other_skills if other_skills else None
 
-        # Extracting  honors and awards if available
+        # Extracting honors and awards if available
         honors_and_awards = []
         honors_re = re.compile(r'\b\d{4}\b(.+)')
         matches = honors_re.findall(text)
@@ -118,12 +118,10 @@ def upload():
 
         # Passing the extracted information to a JSON file
         with open('resume_info.json', 'w') as json_file:
-            json.dump(data, json_file, indent=4)
+            json.dump(data, json_file, indent=8, sort_keys=True)
 
         # Return the extracted information as a JSON response
-        return jsonify(data)
-
-
+        return jsonify(data=sorted(data.items()))
 
 
 if __name__ == '__main__':

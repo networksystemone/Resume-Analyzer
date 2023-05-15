@@ -1,52 +1,15 @@
 {
-    "name": "Omkar Pathak SOFTWARE",
-    "age": null,
-    "contact": {
-        "phone": "8087996634",
-        "email": "omkarpathak27@gmail.com"
-    },
-    "programming_languages": [
-        "Aggregate 74% Skills  Python",
-        "C",
-        "PHP",
-        "C++",
-        "Shell Script Frontend Technologies: HTML",
-        "CSS",
-        "JavaScript",
-        "Angular 6/7 Backend Technologies: Django",
-        "Flask (Python)",
-        "Laravel (PHP) Operating Systems: Linux",
-        "Unix",
-        "Windows Databases: MySQL",
-        "SQLite",
-        "MongoDB Other: Git",
-        "NLP",
-        "Scikit-Learn",
-        "OpenCV",
-        "Cloud (GCP",
-        "Azure",
-        "DigitalOcean) Honors & Awards 2018 Top rated Python developer",
-        "in Pune and Fifth in India at Github India 2018 Quora Top Writer",
-        "India 2018 Awarded \u2018The Best Outgoing Student Award 2017-18\u2019",
-        "MMCOE",
-        "Pune 2018 Won 2nd Prize",
-        "in an Hackathon organized by MIT-ADT Persona Fest 2018 Pune 2018 Best Paper Award",
-        "in National Level Conference on \u201cEmerging Trends in Computing",
-        "Analytics and Security - 2018\u201d(NCETCAS-2018) MMCOE",
-        "Pune Extracurricular Activities Contributor in Pune PyCon 2018 PUNE",
-        "MAHARASHTRA",
-        "INDIA 2018 \u2022 Was a part of Website Designing and volunteering committee NOVEMBER 3",
-        "2019 OMKAR PATHAK \u00b7 R\u00c9SUM\u00c9 2 Mentor at GirlScript Summer of Code 2019 PUNE",
-        "MAHARASHTRA",
-        "INDIA 2019 \u2022"
-    ],
-    "frontend_technologies": null,
-    "backend_technologies": null,
-    "operating_systems": null,
-    "databases": null,
-    "other_skills": null,
-    "honors_and_awards": [
-        "- Present \u2022 Responsible for implementing and managing an end-to-end CI/CD Pipeline with custom validations for Informatica migrations which brought migration time to 1.5 hours from 9 hours without any manual intervention \u2022 Enhancing, auditing and maintaining custom data ingestion framework that ingest around 1TB of data each day to over 70 business units \u2022 Working with L3 developer team to ensure the discussed Scrum PBI\u2019s are delivered on time for data ingestions \u2022 Planning and Executing QA and Production Release Cycle activities Truso Pune, Maharashtra, India FULL STACK DEVELOPER INTERN June 2018 - July 2018 \u2022 Created RESTful apis \u2022 Tried my hands on Angular 5/6 \u2022 Was responsible for Django backend development Propeluss Pune, Maharashtra, India DATA ENGINEERING INTERN October 2017 - January 2018 \u2022 Wrote various automation scripts to scrape data from various websites. \u2022 Applied Natural Language Processing to articles scraped from the internet to extract different entities in these articles using entity extraction algorithms and applying Machine Learning to classify these articles. \u2022 Also applied KNN with LSA for extracting relevant tags for various startups based on their works. GeeksForGeeks Pune, Maharashtra, India TECHNICAL CONTENT WRITER July 2017 - September 2017 \u2022 Published 4 articles for the topics such as Data Structures and Algorithms and Python Softtestlab Technologies Pune, Maharashtra, India WEB DEVELOPER INTERN June 2017 - July 2017 \u2022 Was responsible for creating an internal project for the company using PHP and Laravel for testing purposes \u2022 Worked on a live project for creating closure reports using PHP and Excel Projects Pyresparser API/Python Package PERSONAL PROJECT July 2019 - Present \u2022 A simple resume parser used for extracting information from resumes \u2022 Extract information from thousands of resumes in just a few seconds \u2022 Author and maintainer of this project Garbage Level Monitoring System IoT TEAM PROJECT October 2017 - May 2018 \u2022 To find a economical and smarter alternative to current garbage problems \u2022 Users can monitor levels of all garbage bins from a global dashboard provided \u2022 Was responsible for Django backend development NOVEMBER 3, 2019 OMKAR PATHAK \u00b7 R\u00c9SUM\u00c9 1 Pygorithm API / Python Package PERSONAL PROJECT July 2017 - Present \u2022 Author and maintainer of this project \u2022 An educational library to teach all the major algorithms \u2022 Got covered in Fosstack, FullStackFeed, Kleiber and Tagged under Hotest Github Project on ITCodeMonkey Smart Surveillance System using Raspberry Pi and Face Recognition IoT PERSONAL PROJECT January 2017 - February 2017 \u2022 Face Recognition using OpenCV and Python \u2022 Raspberry Pi was used as the data server \u2022 User notified if any suspicious activity detected in real time Password Strength Evaluator using Machine Learning Machine Learning PERSONAL PROJECT March 2017 \u2022 SVM algorithm used for training and classification \u2022 Flask framework used \u2022 Self-generated dataset Education Marathwada Mitra Mandal\u2019s College of Engineering Pune, Maharashtra, India B.E. IN COMPUTER ENGINEERING 2014 - 2018 \u2022 Aggregate 74% Skills Programming Languages: Python, C, PHP, C++, Shell Script Frontend Technologies: HTML, CSS, JavaScript, Angular 6/7 Backend Technologies: Django, Flask (Python), Laravel (PHP) Operating Systems: Linux, Unix, Windows Databases: MySQL, SQLite, MongoDB Other: Git, NLP, Scikit-Learn, OpenCV, Cloud (GCP, Azure, DigitalOcean) Honors & Awards 2018 Top rated Python developer, in Pune and Fifth in India at Github India 2018 Quora Top Writer, India 2018 Awarded \u2018The Best Outgoing Student Award 2017-18\u2019, MMCOE, Pune 2018 Won 2nd Prize, in an Hackathon organized by MIT-ADT Persona Fest 2018 Pune 2018 Best Paper Award, in National Level Conference on \u201cEmerging Trends in Computing , Analytics and Security - 2018\u201d(NCETCAS-2018) MMCOE, Pune Extracurricular Activities Contributor in Pune PyCon 2018 PUNE, MAHARASHTRA, INDIA 2018 \u2022 Was a part of Website Designing and volunteering committee NOVEMBER 3, 2019 OMKAR PATHAK \u00b7 R\u00c9SUM\u00c9 2 Mentor at GirlScript Summer of Code 2019 PUNE, MAHARASHTRA, INDIA 2019 \u2022 Mentored 4+ teams in various domains Organizing head for the National level technical event - Innovatus PUNE, MAHARASHTRA, INDIA 2018 \u2022 Organized project competitions Workshop on IoT and Python MMCOE, PUNE 10 Jan 2017 \u2022 Conducted a workshop for second year students to give them a brief overview about IoT by completing three mini projects and taught them basics of Python programming language Publications Smart Surveillance System using Raspberry Pi and Face Recognition DOI10.17148/IJARCCE.2017.64117 Garbage Level Monitoring System Interests \u2022 Competitive Programming \u2022 Photography \u2022 Sketching \u2022 Reading/Writing on Quora \u2022 Contributing to Open Source projects NOVEMBER 3, 2019 OMKAR PATHAK \u00b7 R\u00c9SUM\u00c9 3"
-    ],
-    "extracurricular_activities": null
+        "age": null,
+        "backend_technologies": null,
+        "contact": null,
+        "databases": null,
+        "extracurricular_activities": null,
+        "frontend_technologies": null,
+        "honors_and_awards": [
+                ". Act as a Point of Contact in Data Interoperability, Analytics and BI and Production Support issue resolution. Experience in Developing Performance Dashboards, Score cards, Metrics, what if analysis, Prompts, Drills. Reports/Dashboards for all the functional areas including Finance, Pricing, Purchasing and Sales/Marketing. Willing to relocate: Anywhere WORK EXPERIENCE Software Engineer Microsoft - hyderbad, Telangana - December 2015 to Present 1. Microsoft Rewards Live dashboards: Description: - Microsoft rewards is loyalty program that rewards Users for browsing and shopping online. Microsoft Rewards members can earn points when searching with Bing, browsing with Microsoft Edge and making purchases at the Xbox Store, the Windows Store and the Microsoft Store. Plus, user can pick up bonus points for taking daily quizzes and tours on the Microsoft rewards website. Rewards live dashboards gives a live picture of usage world-wide and by markets like US, Canada, Australia, new user registration count, top/bottom performing rewards offers, orders stats and weekly trends of user activities, orders and new user registrations. the PBI tiles gets refreshed in different frequencies starting from 5 seconds to 30 minutes. Technology/Tools used \u2022 Event hub, stream analytics and Power BI. Responsibilities \u2022 Created stream analytics jobs to process event hub data \u2022 Created Power BI live dashboard to show live usage traffic, weekly trends, cards, charts to show top/bottom 10 offers and usage metrics. 2. Microsoft Rewards Data Insights: Description: - Microsoft rewards is loyalty program that rewards Users for browsing and shopping online. Microsoft Rewards members can earn points when searching with Bing, browsing with Microsoft Edge and making purchases at the Xbox Store, the Windows Store and the Microsoft Store. Plus, user can pick up bonus points for taking daily quizzes and tours on the Microsoft rewards website. Rewards data insights is data analytics and reporting platform, processes 20 million users daily activities and redemption across different markets like US, Canada, Australia. Technology/Tools used \u2022 Cosmos (Microsoft big-data platform), c#, X-flow job monitoring, Power BI. Responsibilities \u2022 Created big data scripts in cosmos \u2022 C# data extractors, processors and reducers for data transformation \u2022 Power BI dashboards 3. End to end tracking Tool: Description: - This is real-time Tracking tool to track different business transactions like order, order response, functional acknowledgement, invoice flowing inside ICOE. It gives flexibility to customers to track their transactions and appropriate error information in-case of any failure. Based on resource based access control the tool gives flexibility to end user to perform different actions like view transactions, search based on different filter criteria and view and download actual message payload. End to end tracking tool stitches all the business transaction like order to cash flow and connects different hops inside ICOE like gateway, routing server, Processing server. It also connects different systems like ICOE, partner end point and SAP. Technology/Tools used \u2022 Azure Document db, Azure web job and Web APP, RBAC, Angular JS. Responsibilities \u2022 Document dB stored procedures. \u2022 Web job to process event hub data and populate Document db \u2022 Web App API. \u2022 Stream analytics job to transform data \u2022 Power BI reports 4. Biztrack Tracking Tool: Description: - This is real-time Tracking tool to track different business transactions like order, order response, functional acknowledgement, invoice flowing inside ICOE. It gives flexibility to customers to track their transactions and appropriate error information in-case of any failure. Based on resource based access control the tool gives flexibility to end user to perform different actions like view transactions, search based on different filter criteria and view and download actual message payload. Technology/Tools used \u2022 SQL server 2014, SSIS, .net API, Angular JS. Responsibilities \u2022 ETL solution to transform business transactions data stored in Biztalk tables. \u2022 SQL azure tables, stored procedures, User defined functions. \u2022 Performance tuning. \u2022 Web API enhancements. EDUCATION Saurashtra University - Morbi, Gujarat 2007 SKILLS problem solving (Less than 1 year), project lifecycle (Less than 1 year), project manager (Less than 1 year), technical assistance. (Less than 1 year) ADDITIONAL INFORMATION Professional Skills \u2022 Excellent analytical, problem solving, communication, knowledge transfer and interpersonal skills with ability to interact with individuals at all the levels \u2022 Quick learner and maintains cordial relationship with project manager and team members and good performer both in team and independent job environments \u2022 Positive attitude towards superiors &amp; peers \u2022 Supervised junior developers throughout project lifecycle and provided technical assistance."
+        ],
+        "name": "Stored Procedures",
+        "operating_systems": null,
+        "other_skills": null,
+        "programming_languages": null
 }
