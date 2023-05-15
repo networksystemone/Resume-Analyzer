@@ -17,7 +17,7 @@ def index():
 def upload():
     # Get the uploaded file from the request
     file = request.files['resume']
-
+    
     # Open the PDF file in binary mode
     with fitz.open(stream=file.read(), filetype='pdf') as pdf_file:
         # Extracting the text from each page of the PDF file
@@ -123,8 +123,7 @@ def upload():
         # Return the extracted information as a JSON response
         return jsonify(data)
 
-if __name__ == '__main__':
-    app.run(debug=True)
+
 
 
 if __name__ == '__main__':
